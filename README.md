@@ -18,7 +18,6 @@
 ## 👨‍💻 About Me
 
  ```python
-🎓 Programming Analyst
 🧠 I enjoy solving problems and understanding how things work
 🎮 Gamer by passion, developer by choice
 🎵 Music keeps me focused while coding
