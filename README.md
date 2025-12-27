@@ -46,25 +46,13 @@
   </p>
 </div>
 
-## 📊 GitHub Analytics
+##  ⚙️  GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Diego-Tardon&show_icons=true&theme=tokyonight&hide_border=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=diego-tardon&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Diego-Tardon&theme=tokyonight&hide_border=true"
-  />
-</p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Tardon&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
 
 <p align="center">
   <img 
