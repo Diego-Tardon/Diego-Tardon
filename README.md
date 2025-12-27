@@ -22,12 +22,23 @@
 
 ## 👨‍💻 About Me
 
-```txt
-🎓 Programming Analyst student focused on practical learning and real projects.
-📱 Experience using Android Studio in academic projects.
-🧠 Strong interest in problem-solving and logical thinking.
-📈 Constantly learning and improving as a developer.
+```python
+class WhoAmI:
+    user = "Diego Tardón"
+    role = "Programming Analyst Student"
+
+    interests = [
+        "Problem solving",
+        "Gaming",
+        "Music"
+    ]
+
+    mindset = "Always learning and improving"
+
+
+
 ```
+
   <h3>💻 Languages</h3>
   <br/>
   <p align="center">
