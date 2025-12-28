@@ -19,9 +19,6 @@
 
 </div>
 
-
-## 👨‍💻 About Me
-
  ```python
 class About Me:
     user = "Diego Tardón"
