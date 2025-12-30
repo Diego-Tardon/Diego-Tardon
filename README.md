@@ -45,7 +45,7 @@ class About Me:
   <img src="https://img.shields.io/badge/VS%20Code-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
-<h3 align="center">💻 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <table align="center">
   <tr>
