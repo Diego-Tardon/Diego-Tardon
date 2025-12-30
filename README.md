@@ -8,7 +8,6 @@
 <br/>
 
 <div align="center" style="background-color:#0b0f1a; padding:32px; border-radius:18px; max-width:900px; margin:auto;">
-
   <p align="center">
     <a href="https://git.io/typing-svg">
       <img 
@@ -31,7 +30,6 @@ class About Me:
 ```
 
 <h3 align="center">💻 Languages</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-8B5CF6?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
@@ -41,11 +39,19 @@ class About Me:
 </p>
 
 <h3 align="center">🛠 Tools</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-8B5CF6?style=for-the-badge&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-8B5CF6?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+<h3 align="center">💻 GitHub Stats</h3>
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Diego-Tardon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Diego-Tardon&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 <p align="center">
