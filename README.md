@@ -2,10 +2,9 @@
   <img 
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Hola%2C%20soy%20Diego%20Tardón&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"
-  />
-</p>
-
-<br/>
+    />
+  </p>
+</div>
 
 <div align="center" style="background-color:#0b0f1a; padding:32px; border-radius:18px; max-width:900px; margin:auto;">
   <p align="center">
@@ -15,7 +14,6 @@
       />
     </a>
   </p>
-
 </div>
 
  ```python
@@ -46,7 +44,6 @@ class About Me:
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
-
 <table align="center">
   <tr>
     <td align="right">
