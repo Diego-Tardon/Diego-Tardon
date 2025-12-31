@@ -45,16 +45,13 @@ class About Me:
 
 <h3 align="center">📊 GitHub Stats</h3>
 <table align="center">
-  <tr>
-    <td align="right">
-      <img height="180em"
-           src="https://github-readme-stats.vercel.app/api?username=Diego-Tardon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-    </td>
-    <td align="left">
-      <img height="180em"
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Tardon&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
-    </td>
-  </tr>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diego-Tardon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Tardon&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800" />
+</p>
 </table>
 
 
